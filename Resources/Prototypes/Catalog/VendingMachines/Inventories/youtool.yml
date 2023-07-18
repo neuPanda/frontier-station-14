@@ -1,18 +1,18 @@
 - type: vendingMachineInventory
   id: YouToolInventory
   startingInventory:
-    CableApcStack: 20
-    Crowbar: 15
-    Welder: 13
-    Wirecutter: 15
-    Wrench: 15
-    Screwdriver: 15
-    trayScanner: 15
-    NetworkConfigurator: 13
-    GasAnalyzer: 15
-    FlashlightLantern: 15
-    ClothingHandsGlovesColorYellowBudget: 30
-    AirlockPainter: 20
+    CableApcStack: 4
+    Crowbar: 6
+    Welder: 6
+    Wirecutter: 6
+    Wrench: 6
+    Screwdriver: 6
+    trayScanner: 6
+    NetworkConfigurator: 6
+    GasAnalyzer: 6
+    FlashlightLantern: 6
+    ClothingHandsGlovesColorYellowBudget: 6
+    AirlockPainter: 6
   # Some engineer forgot to take the multitool out the youtool when working on it, happens.
   contrabandInventory:
     Multitool: 5

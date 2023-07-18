@@ -1,17 +1,17 @@
 ﻿- type: vendingMachineInventory
   id: AmmoVendInventory
   startingInventory:
-    SurvivalKnife: 15
-    WeaponLaserGun: 15
+    SurvivalKnife: 10
+    WeaponLaserGun: 8
 
-    WeaponSniperMosin: 15
-    MagazineBoxLightRifle: 15
-    MagazineBoxLightRiflePractice: 15
-    MagazineBoxLightRifleRubber: 15
+    WeaponSniperMosin: 8
+    MagazineBoxLightRifle: 8
+    MagazineBoxLightRifleRubber: 8
+    MagazineBoxLightRiflePractice: 8
 
-    WeaponShotgunDoubleBarreled: 15
-    BoxLethalshot: 15
-    BoxBeanbag: 15
-    BoxShellTranquilizer: 15
-    BoxShotgunPractice: 15
+    WeaponShotgunDoubleBarreled: 8
+    BoxLethalshot: 8
+    BoxBeanbag: 8
+    BoxShellTranquilizer: 8
+    BoxShotgunPractice: 8
 

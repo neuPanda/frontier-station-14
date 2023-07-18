@@ -1,18 +1,18 @@
 - type: vendingMachineInventory
   id: SecTechInventory
   startingInventory:
-    Handcuffs: 12
-    GrenadeFlashBang: 14
-    Flash: 15
-    FlashlightSeclite: 15
-    ClothingEyesGlassesSunglasses: 12
-    ClothingBeltSecurityWebbing: 15
-    Zipties: 20
-    RiotShield: 12
-    RiotLaserShield: 12
-    RiotBulletShield: 12
-    Stunbaton: 10
-    WeaponDisabler: 10
+    Handcuffs: 6
+    GrenadeFlashBang: 6
+    Flash: 6
+    FlashlightSeclite: 6
+    ClothingEyesGlassesSunglasses: 6
+    ClothingBeltSecurityWebbing: 6
+    Zipties: 10
+    RiotShield: 6
+    RiotLaserShield: 6
+    RiotBulletShield: 6
+    Stunbaton: 6
+    WeaponDisabler: 6
   # security officers need to follow a diet regimen!
   contrabandInventory:
     FoodDonutHomer: 12
